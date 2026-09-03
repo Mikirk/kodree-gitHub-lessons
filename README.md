@@ -1,1 +1,1 @@
-# kodree-gitHub-lessons
+# kodree-github-lessons
